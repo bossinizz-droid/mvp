@@ -1,6 +1,5 @@
 
 import React, { useState, useEffect } from 'react';
-import Layout from './components/Layout';
 import MarketOverview from './components/MarketOverview';
 import StockChart from './components/StockChart';
 import AIAssistant from './components/AIAssistant';
