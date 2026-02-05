@@ -48,7 +48,7 @@ const App: React.FC = () => {
   }, [selectedStock]);
 
   return (
-    <Layout>
+    <div>
       <div className="max-w-7xl mx-auto px-4 md:px-8 py-8 space-y-8">
         
         {/* Global Market Switcher & Index Section */}
@@ -276,7 +276,7 @@ const App: React.FC = () => {
           </div>
         </div>
       </div>
-    </Layout>
+    </div>
   );
 };
 
