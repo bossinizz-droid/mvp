@@ -1,0 +1,6 @@
+
+{
+  "name": "Gemini Quant - AI Stock Intelligence",
+  "description": "A high-performance stock market dashboard featuring real-time market insights, interactive technical charts, and an AI-powered quantitative assistant using Gemini 3.",
+  "requestFramePermissions": ["geolocation"]
+}
